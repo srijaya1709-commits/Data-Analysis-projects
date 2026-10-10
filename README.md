@@ -38,4 +38,4 @@ Each notebook follows the same steps:
 
 ## Author
 
-Your Name
+Jaya Sri C
